@@ -1,2 +1,0 @@
-# ReactFinalFormSample
-Created with CodeSandbox
